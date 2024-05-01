@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 
 
 
-const {NipManager} = require('node-nlp')
+// const {NipManager} = require('node-nlp')
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
