@@ -1,26 +1,3 @@
-// bot press api key 
-// bp_pat_vVsQWTW9aj7KuoRApXcAKvJsa5ifPN8gse6S
-// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMTBiMDM3NzItYzg5Yy00NzgyLTkwMDYtY2JiNWY5NTZhYmFjIiwidHlwZSI6ImFwaV90b2tlbiJ9.tBMkcsOQgqPS6ey40Cn7zwyRSO6rC0w06F2T9YXP3iM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 function resp(d) {
     if(d===false){
